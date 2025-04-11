@@ -1,0 +1,5 @@
+On Day 4, the focus shifted to container orchestration using Kubernetes. We explored the Kubernetes architecture, understanding the roles of core components such as the Master Node, Worker Nodes, Kubelet, etcd, Controller Manager, Scheduler, and Kube Proxy. This gave us a strong foundation in how Kubernetes manages and automates deployment, scaling, and operations of application containers.
+
+The session also introduced Amazon EKS (Elastic Kubernetes Service)—AWS's managed Kubernetes service. We learned how EKS simplifies running Kubernetes on AWS without needing to install and operate Kubernetes control planes manually.
+
+Additionally, we looked into configuring EC2 instances as Master Nodes, helping us understand the infrastructure setup required for a self-managed Kubernetes cluster on AWS.
